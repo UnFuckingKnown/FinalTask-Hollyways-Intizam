@@ -1,0 +1,29 @@
+.mainContainerFundraising {
+  /* background-color: #e8e8e8; */
+}
+
+.ContainerFundraising {
+  /* border: 1px solid black !important; */
+  /* background-color: #e8e8e8 !important; */
+  margin: 100px !important;
+}
+
+.fundraisingTextarea {
+  width: 100% !important;
+  size-adjust: none !important;
+  resize: none !important;
+  border-radius: 5px !important;
+}
+
+.inputFundraising {
+  background-color: #e8e8e8 !important;
+  border: none !important;
+}
+
+.attacheFundraising {
+  background-color: #c32424 !important;
+  color: white !important;
+  padding: 6px !important;
+  border-radius: 10px !important;
+  border: none !important;
+}

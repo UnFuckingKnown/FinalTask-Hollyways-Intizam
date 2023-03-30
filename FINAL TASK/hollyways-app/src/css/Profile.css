@@ -1,0 +1,81 @@
+.containerProfile {
+  /* border: 1px solid black !important; */
+  margin: 100px !important;
+}
+
+.leftContent {
+  width: 65% !important;
+  /* border: 1px solid black !important; */
+}
+
+.rightContent {
+  width: 35% !important;
+  /* border: 1px solid black !important; */
+}
+
+.detailLeftProfile {
+  margin-top: 50px !important;
+  margin-left: 50px !important;
+}
+
+.detailProfile {
+  margin-left: 20px !important;
+}
+
+.rightContentTop h1 {
+  text-align: center !important;
+}
+
+.historyDonationRight {
+  /* border: 1px solid black !important; */
+  margin: 90px !important;
+  background-color: white !important;
+  /* border-radius: 10px !important; */
+}
+
+.cardHistoryDonation {
+  width: 100% !important;
+  height: 137px !important;
+  border-radius: 3px !important;
+  background-color: aliceblue;
+  /* padding: 10px !important; */
+}
+
+.innerCardHistoryDonation {
+  margin: 10px !important;
+}
+
+.footerCardHistoryDonation {
+  width: 100% !important;
+}
+
+.footerCardHistoryDonation button {
+  margin: auto !important;
+}
+
+.totalHistoryDonation p {
+  color: brown !important;
+  font-weight: 700;
+}
+
+.statusHistoryDonation {
+  border: none !important;
+  background-color: rgb(224, 255, 224) !important;
+  color: green !important;
+  padding: 5px !important;
+  width: 140px !important;
+  border-radius: 10px !important;
+}
+
+.statusHistoryDonationDidntSucces {
+  border: none !important;
+  background-color: rgb(252, 226, 226) !important;
+  color: red !important;
+  padding: 5px !important;
+  width: 140px !important;
+  border-radius: 10px !important;
+}
+
+.detailProfileTitle h5 {
+  color: red !important;
+}

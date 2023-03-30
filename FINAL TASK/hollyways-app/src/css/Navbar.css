@@ -1,0 +1,160 @@
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .mainColor {
+    background-color: #c32424 !important;
+  }
+
+  .buttonNavbar1 {
+    border: none !important;
+    background-color: #c32424 !important;
+  }
+
+  .buttonNavbar2 {
+    background-color: white !important;
+    color: #c32424 !important;
+    border: none !important;
+  }
+
+  /* .buttonNavbar2:hover {
+    background-color: white !important;
+    color: #c32424 !important;
+  } */
+
+  .dropdownProfile {
+    position: absolute !important;
+    z-index: 999999999 !important;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .mainColor {
+    background-color: #c32424 !important;
+  }
+
+  .buttonNavbar1 {
+    border: none !important;
+    background-color: #c32424 !important;
+  }
+
+  .buttonNavbar2 {
+    background-color: white !important;
+    color: #c32424 !important;
+    border: none !important;
+  }
+
+  .imageNavbar {
+    margin-left: 30px !important;
+  }
+
+  .dropdownProfile {
+    position: absolute !important;
+    z-index: 999999999 !important;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .mainColor {
+    background-color: #c32424 !important;
+  }
+
+  .buttonNavbar1 {
+    border: none !important;
+    background-color: #c32424 !important;
+  }
+
+  .buttonNavbar2 {
+    background-color: white !important;
+    color: #c32424 !important;
+    border: none !important;
+  }
+
+  /* .buttonNavbar2:hover {
+    background-color: white !important;
+    color: #c32424 !important;
+  } */
+  .imageNavbar {
+    margin-left: 30px !important;
+  }
+
+  .dropdownProfile {
+    position: absolute !important;
+    z-index: 999999999 !important;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .mainColor {
+    background-color: #c32424 !important;
+  }
+
+  .buttonNavbar1 {
+    border: none !important;
+    background-color: #c32424 !important;
+  }
+
+  .buttonNavbar2 {
+    background-color: white !important;
+    color: #c32424 !important;
+    border: none !important;
+  }
+
+  /* .buttonNavbar2:hover {
+    background-color: white !important;
+    color: #c32424 !important;
+  } */
+  .imageNavbar {
+    margin-left: 16px !important;
+  }
+
+  .dropdownProfile {
+    position: absolute !important;
+    z-index: 999999999 !important;
+  }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .mainColor {
+    background-color: #c32424 !important;
+  }
+
+  .buttonNavbar1 {
+    border: none !important;
+    background-color: #c32424 !important;
+  }
+
+  .buttonNavbar2 {
+    background-color: white !important;
+    color: #c32424 !important;
+    border: none !important;
+  }
+
+  /* .buttonNavbar2:hover {
+    background-color: white !important;
+    color: #c32424 !important;
+  } */
+
+  .imageNavbar {
+    margin-left: 16px !important;
+  }
+
+  .dropdownProfile {
+    position: absolute !important;
+    z-index: 999999999 !important;
+  }
+}
+
+.profileImage {
+  border-radius: 50px !important;
+  width: 50px !important;
+  height: 50px !important;
+  margin-right: 30px !important;
+}
+
+.offcanvas a {
+  text-decoration: none !important;
+  list-style: none !important;
+}

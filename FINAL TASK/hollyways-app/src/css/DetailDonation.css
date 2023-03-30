@@ -1,0 +1,92 @@
+.container1DetailDonation {
+  width: 70% !important;
+  height: 600px !important;
+  /* border: 1px solid black !important; */
+  margin: auto !important;
+  margin-top: 100px !important;
+}
+
+.container1DetailDonationLeft {
+  width: 50% !important;
+  /* border: 1px solid black !important; */
+}
+
+.container1DetailDonationLeft img {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.container1DetailDonationRight {
+  width: 50% !important;
+  /* border: 1px solid black !important; */
+}
+
+.container1DetailDonationRightTop h1 {
+  text-align: center !important;
+  margin-top: 20px !important;
+  margin: 20px !important;
+}
+
+.container1DetailDonationRightTop p {
+  margin-top: 20px !important;
+  margin: 50px !important;
+}
+
+.buttonDetailDonate {
+  /* border: 1px solid black !important; */
+}
+
+.buttonDetailDonate button {
+  border: none !important;
+  width: 100% !important;
+  height: 40px !important;
+  border-radius: 10px !important;
+  background-color: red !important;
+  color: white !important;
+  font-weight: bold !important;
+  justify-content: center !important;
+  margin: 30px 30px !important;
+}
+
+/* container 2 */
+
+.containerDetailDonation2 {
+  /* border: 1px solid black !important; */
+  width: 70% !important;
+  margin: auto !important;
+  margin-top: 50px !important;
+}
+
+.containerDetailDonation2Card {
+  margin-top: 50px !important;
+  width: 100% !important;
+  height: 130px !important;
+  background-color: aliceblue;
+  padding: 10px !important;
+}
+
+.progresBar {
+  /* border: 1px solid black !important; */
+  margin: auto !important;
+}
+
+.progresDonation {
+  text-align: center !important;
+}
+
+.innerProgresDonation {
+  font-weight: 400 !important;
+  font-size: 15px !important;
+}
+
+.progresBarDonated {
+  color: red !important;
+}
+
+.progresBarTotalDonation {
+  color: grey !important;
+}
+
+.days {
+  color: grey !important;
+}

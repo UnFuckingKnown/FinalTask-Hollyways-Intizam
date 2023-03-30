@@ -1,0 +1,151 @@
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .container1 {
+    background-color: #c32424 !important;
+    height: 110vh !important;
+  }
+
+  /* .mainContent1 {
+    border: 1px solid blue !important;
+  } */
+
+  .mainContent1Left {
+    /* border: 1px solid black !important; */
+    width: 70% !important;
+    height: 300px !important;
+    margin-top: 140px !important;
+  }
+
+  .mainContent1Right {
+    /* border: 1px solid black !important; */
+    width: 30% !important;
+    height: 300px !important;
+    margin-top: 140px !important;
+  }
+
+  .innerMainContent1Left {
+    margin: 10% 10% !important;
+    /* border: 1px solid blue !important; */
+    width: 70% !important;
+    color: white !important;
+  }
+
+  .innerMainContent1Left h1 {
+    font-weight: 700;
+  }
+
+  .mainContent1RightImage {
+    /* margin-left: 252px !important; */
+    margin-top: 200px !important;
+    width: 430px !important;
+    height: 530px !important;
+    margin-right: -10px !important;
+
+    /* height: 100% !important; */
+    /* width: 100% !important; */
+    /* margin-bottom: -150px !important; */
+    /* position: absolute !important; */
+    /* z-index: 99999; */
+  }
+
+  .downloadButton {
+    background-color: white !important;
+    color: #c32424 !important;
+    border: none !important;
+    height: 35px !important;
+    width: 200px !important;
+    border-radius: 10px !important;
+  }
+
+  /* container2 */
+
+  /*  */
+
+  .container2 {
+    background-color: #e8e8e8 !important;
+    height: 100vh !important;
+  }
+
+  /* .secContent {
+    border: 1px solid black !important;
+  } */
+
+  .secContentLeft {
+    width: 30% !important;
+    /* border: 1px solid black !important; */
+  }
+
+  .secContentRight {
+    width: 70% !important;
+    /* border: 1px solid black !important; */
+  }
+
+  .secContentLeftImage {
+    margin-top: -170px !important;
+    margin-left: -10px !important;
+  }
+
+  .innerSecContentRight {
+    /* border: 1px solid black !important; */
+    margin: 180px !important;
+  }
+
+  .innerSecContentRight h2 {
+    font-weight: 600 !important;
+    font-size: 40px !important;
+  }
+
+  /* container 3 */
+
+  .container3 {
+    background-color: #e8e8e8 !important;
+    height: 100vh !important;
+  }
+
+  .container3 h1 {
+    color: #c32424 !important;
+    text-align: center;
+  }
+
+  .innerThrdContent {
+    width: 100% !important;
+    /* border: 1px solid red !important; */
+    height: 500px !important;
+    margin-top: 200px !important;
+  }
+
+  .cardBottom {
+    width: 350px !important;
+    height: 450px !important;
+    /* border: 1px solid red !important; */
+    margin: auto !important;
+    background-color: white !important;
+  }
+
+  .cardBottom img {
+    height: 270px !important;
+    width: 350px !important;
+  }
+
+  .cardTitle {
+    margin: 10px !important;
+  }
+
+  .cardContent {
+    margin: 10px !important;
+  }
+
+  .footerCard {
+    justify-content: space-between !important;
+    margin: 20px !important;
+  }
+
+  .buttonCard {
+    background-color: #c32424 !important;
+    color: white !important;
+    border: none !important;
+    width: 100px !important;
+    height: 30px !important;
+    border-radius: 10px !important;
+  }
+}
