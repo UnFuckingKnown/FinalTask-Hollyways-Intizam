@@ -18,7 +18,7 @@ import Loading from './components/Loading';
 
 function App() {
 
-  let navigate = useNavigate();
+  let navigate = useNavigate();  
   const [state, dispatch] = useContext(UserContext);
   const [isLoading, setIsLoading] = useState(true)
 

@@ -325,12 +325,6 @@ function NavScrollExample() {
     }
 
 
-
-
-
-
-
-
     useEffect(() => {
         Aos.init({
             once: true,
