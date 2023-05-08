@@ -13,6 +13,7 @@ import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import '../css/ProgresBar.css'
 import ProgressBar from 'react-bootstrap/ProgressBar';
+import Swal from 'sweetalert2';
 
 
 
