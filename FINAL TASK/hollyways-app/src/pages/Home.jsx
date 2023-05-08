@@ -33,6 +33,14 @@ export default function Home() {
             delay: 300,
         }, [])
     })
+    
+    
+    
+        useEffect(() => {
+        setTimeout(() => {
+            Swal.fire(`I'm sorry because the backend hasn't been deployed and the web isn't responsive, only for desktop viewing`)
+        }, 3000);
+    })
 
 
 
