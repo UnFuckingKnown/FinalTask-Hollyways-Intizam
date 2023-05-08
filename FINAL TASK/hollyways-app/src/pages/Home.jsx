@@ -37,11 +37,19 @@ export default function Home() {
     
     
     
-        useEffect(() => {
-        setTimeout(() => {
-            Swal.fire(`I'm sorry because the backend hasn't been deployed and the web isn't responsive, only for desktop viewing`)
-        }, 3000);
-    })
+//         useEffect(() => {
+//         setTimeout(() => {
+//             Swal.fire(`I'm sorry because the backend hasn't been deployed and the web isn't responsive, only for desktop viewing`)
+//         }, 3000);
+//     })
+    
+    
+    
+    useEffect(() => {
+  setTimeout(() => {
+    alert(`I'm sorry because the backend hasn't been deployed and the web isn't responsive, only for desktop viewing`)
+}, 3000);
+})
 
 
 
