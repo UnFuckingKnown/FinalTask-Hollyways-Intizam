@@ -41,7 +41,7 @@ export default function Home() {
         setTimeout(() => {
             Swal.fire(`I'm sorry because the backend hasn't been deployed and the web isn't responsive, only for desktop viewing`)
         }, 3000);
-    })
+    },[])
     
     
     
