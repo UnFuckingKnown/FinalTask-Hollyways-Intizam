@@ -39,7 +39,7 @@ export default function Home() {
     
         useEffect(() => {
         setTimeout(() => {
-            Swal.fire(`I'm sorry because the backend hasn't been deployed and the web isn't responsive, only for desktop viewing`)
+            Swal.fire(`I'm sorry because the backend hasn't been deployed because the railways are in trouble and the web isn't responsive, only for desktop viewing`)
         }, 3000);
     },[])
     
